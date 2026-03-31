@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aakash Bhardwaj 👋
 
-<!--
-**Aakash-FSD/Aakash-FSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 About Me
 
-Here are some ideas to get you started:
+* Software Engineer with 8 years of experience
+* Working in Gurugram
+* Strong in Backend Systems & Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+* Backend: Node.js, PHP
+* Frontend: Angular
+* Databases: MySQL, PostgreSQL, MSSQL, Oracle
+* Tools: Pentaho, REST APIs
+
+### 🚀 Current Focus
+
+* Learning Python for AI/ML
+* Building GenAI applications (LLMs, RAG)
+* Exploring FastAPI, Vector Databases, AWS
+
+### 📌 Goals (2026)
+
+* Become GenAI Application Developer
+* Build production-ready AI systems
+* Transition to higher-impact engineering roles
